@@ -8,6 +8,7 @@ contains the core functionalities of the app
 ### dashboard app
 contains code for the dashboard
 ### lead app
+contains functionalities on leads, how to ceate leads and turn them into clients
 ### team app
 ### userprofile app
 
