@@ -6,6 +6,7 @@ contains functionality on how to create clients, clients and their information
 ### core app
 contains the core functionalities of the app
 ### dashboard app
+contains code for the dashboard
 ### lead app
 ### team app
 ### userprofile app
