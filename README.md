@@ -10,6 +10,7 @@ contains code for the dashboard
 ### lead app
 contains functionalities on leads, how to ceate leads and turn them into clients
 ### team app
+contains info on the teams
 ### userprofile app
 
 
